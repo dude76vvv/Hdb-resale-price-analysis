@@ -1,7 +1,8 @@
 # Hdb-resale-price-analysis 
-The aim of this project is to utilize pySpark for  data ingestion, cleaning and transformation. <br/>
+The aim of this project is to utilize pySpark for  data ingestion, cleaning and transformation.<br/> 
+Afterwhich, analyze the hdb resale price data since 2017 provided by **[DATA.GOV.SG](https://beta.data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view)** . <br/>
 Databricks is used for the implementation, creating the analyis and dashboard. <br/>    
-Datasource is be provided by **[DATA.GOV.SG](https://beta.data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view)** 
+
 
 Some of the analysis captured:
 * Top 10 highest hdb resale transaction 
